@@ -1,3 +1,13 @@
+Seattle Housing Project
+
+The goal of the project is to conduct exploratory data analysis (EDA) on property data in Kings County, Seattle on behalf of a virtual client looking to buy new property. The two main outcomes from this analysis should be:
+
+1) Three recommendations on what the client should do (specific properties to buy AND/OR general practices)
+2) Three insights from the data that could be interesting for the client
+
+For a more detailed outline please check the markdown file labeled 'assignment'.
+
+
 # ds-project-template
 
 Template for creating ds simple projects
